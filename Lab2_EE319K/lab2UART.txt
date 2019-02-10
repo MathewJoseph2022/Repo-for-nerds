@@ -1,0 +1,8 @@
+ 
+EE319K Spring 2019 Lab 2
+Temperature Sensor Data Analysis
+Test of your Find_Mean ... ok
+Test of your FtoC ... ok
+Test of your IsMonotonic ... ok
+ Passed all tests -  End of Analysis
+
